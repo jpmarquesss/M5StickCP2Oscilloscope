@@ -1,4 +1,4 @@
-# M5StickC ESP32 Oscilloscope
+# M5StickC Plus 2 ESP32 Oscilloscope
 
 A fully functional oscilloscope based on ESp32 M5StickC 
 ported from https://github.com/botofancalin/M5Stack-ESP32-Oscilloscope
